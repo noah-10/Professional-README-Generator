@@ -3,7 +3,7 @@
 
 ## Description
 
-- The user will be prompted to answer some questions about their project. From there, a professional readme will be generated including all of the users answers.
+- Through the command-line the user will be prompted to answer some questions about their project. From there, a professional readme will be generated including all of the users answers.
 
 ## Table of Contents
 
