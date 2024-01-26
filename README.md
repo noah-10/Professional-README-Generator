@@ -3,7 +3,7 @@
 
 ## Description
 
-- Through the command-line the user will be prompted to answer some questions about their project. From there, a professional readme will be generated including all of the users answers.
+- Through the command-line the user will be prompted to answer questions about their project. From there, a professional README will be generated including all of the users answers.
 
 ## Table of Contents
 
@@ -11,12 +11,11 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
 
-- You will have to fork or clone the repository to your local server to be able to use the application.
+- You will have to fork or clone the repository to your local environment to be able to use the command line code.
 
 ## Usage
 
